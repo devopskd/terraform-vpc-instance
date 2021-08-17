@@ -1,5 +1,6 @@
 # Terraform : Infrastructure as code
-Using terraform to create infrastrucutre on AWS using code. In this code, we are trying to create a below items:
+Using terraform to create infrastrucutre on AWS using code.
+In this code, we are trying to create a below items:
 
 1. VPC
 
